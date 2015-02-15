@@ -1,0 +1,42 @@
+body{
+	margin: 0px;
+}
+.wood{
+	height: 30px;
+	background-image: url("wood.jpg");
+}
+.titlebar{
+	height: 180px;
+	background-color: DodgerBlue;
+	color: white;
+	text-align: center;
+}
+#zak{
+	font-size: 48pt;
+	margin-left: -140px;
+
+}
+#turchansky{
+	margin-top: -80px;
+	font-size:60pt;
+
+}
+#turchansky::first-letter{
+	font-size: 100pt;
+}
+#tagline{
+	margin-top: -30px;
+	font-size: 18pt;
+}
+#navbar{
+	background-color:gray;	
+	color: white;
+	text-align: center;
+	height: 50px;
+}
+.navlink{
+	display:inline-block;
+	vertical-align: middle;
+	font-size: 18pt;
+	margin: 15px;
+}

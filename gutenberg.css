@@ -1,0 +1,28 @@
+p::first-letter { 
+    font-size: 200%;
+}
+body {
+	background-color: #DEB887;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	text-decoration: underline;
+}
+
+img {
+	border: 5px solid black;
+}
+
+.figleft{
+	font-style: bold;
+	font-size: 200%;
+}
+
+.fig {
+	font-style: bold;
+	font-size: 200%;
+}
+
+a {
+	color:brown;
+}
