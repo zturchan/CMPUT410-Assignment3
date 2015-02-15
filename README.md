@@ -1,3 +1,8 @@
+Part 1:
+-All I added to the Gutenberg html pages is a link to my stylesheet
+<link rel="stylesheet" href="gutenberg.css">
+
+
 Assignment: CSS Hell
 ====================
 
