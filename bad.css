@@ -1,40 +1,45 @@
 body{
 	margin: 0px;
+	font-family: "Comic Sans MS";
 }
 .wood{
-	height: 30px;
+	height: 0px;
 	background-image: url("wood.jpg");
 }
 .titlebar{
 	height: 180px;
-	background-color: DodgerBlue;
-	color: white;
+	background: -moz-radial-gradient(DodgerBlue, blue);
 	text-align: center;
 }
 #zak{
 	font-size: 48pt;
-	margin-left: -140px;
+	margin-left: -400px;
+	color: yellow;
 
 }
 #turchansky{
-	margin-top: -80px;
+	margin-left: 300px;
+	margin-top: -80pt;
 	font-size:60pt;
-
+	color: purple;
 }
 #turchansky::first-letter{
 	font-size: 100pt;
 }
 #tagline{
+	display:none;
 	margin-top: -30px;
 	font-size: 18pt;
 }
 #navbar{
-	background-color:gray;	
+	background: -moz-radial-gradient(DodgerBlue, blue);
 	color: white;
 	text-align: center;
 	height: 50px;
 }
 .navlink{
+	background: -moz-radial-gradient(yellow, orange);
+	color: black;
 	display:inline-block;
 	vertical-align: middle;
 	font-size: 18pt;
@@ -47,20 +52,23 @@ body{
 	padding: 10px;
 }
 #sidebar{
+	color:blue;
 	width:25%;
 	display:inline;
-	background-color: LightGray;
+	background-color: yellow;
 	float: right;
 	padding: 10px;
 	line-height:150%;
 }
 .section-header{
+color:black;
 	font-size: 24pt;
 	margin-left: 10%;
 	margin-top: 15px;
 	margin-bottom: 15px;
 }
 .inline-image{
+	border: 10px solid HotPink;
 	float: left;
 	display: inline;
 	margin: 10px;
