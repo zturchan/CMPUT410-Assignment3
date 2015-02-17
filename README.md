@@ -2,6 +2,10 @@ Part 1:
 -All I added to the Gutenberg html pages is a link to my stylesheet
 <link rel="stylesheet" href="gutenberg.css">
 
+Part 2: 
+References:
+wood.jpg public domain image from http://pixabay.com/p-314771/?no_redirect
+
 
 Assignment: CSS Hell
 ====================
